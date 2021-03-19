@@ -1,0 +1,4 @@
+{
+  "Question": "How does a user process request a service from the kernel?",
+  "Answer" : "The user process calls the fork system call, then execve call."
+}
